@@ -2,8 +2,9 @@
   GREEN AI (CNN & IMAGE PROCESSING)
 </h1>
 <div align="center">
-  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/ima%201.jpg?raw=true" alt="Green AI" width="500">
+  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/ima%201.jpg?raw=true" alt="Green AI" style="width: 100%; max-width: 900px;">
 </div>
+
 <div align="center">
-  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/img%202.jpg?raw=true" alt="Green AI" width="500">
+  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/img%202.jpg?raw=true" alt="Green AI" style="width: 100%; max-width: 900px;">
 </div>
