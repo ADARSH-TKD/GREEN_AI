@@ -9,6 +9,14 @@
   <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/img%202.jpg?raw=true" alt="Green AI" style="width: 100%; max-width: 900px;">
 </div>
 
+<div align="center">
+  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/image_2.png" alt="Green AI" style="width: 100%; max-width: 900px;">
+</div>
+
+<div align="center">
+  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/image_1.png" alt="Green AI" style="width: 100%; max-width: 900px;">
+</div>
+
 <h2 align="center" style="font-family: Arial, sans-serif; font-weight: bold;">
 <h2 style="text-align: center">:TECHNOLOGY USED:</h2>
 
