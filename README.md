@@ -17,6 +17,18 @@
   <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/image_1.png" alt="Green AI" style="width: 100%; max-width: 900px;">
 </div>
 
+<div align="center">
+  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/image_3.png" alt="Green AI" style="width: 100%; max-width: 900px;">
+</div>
+
+<div align="center">
+  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/image_4.png" style="width: 100%; max-width: 900px;">
+</div>
+
+<div align="center">
+  <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/image_5.png" style="width: 100%; max-width: 900px;">
+</div>
+
 <h2 align="center" style="font-family: Arial, sans-serif; font-weight: bold;">
 <h2 style="text-align: center">:TECHNOLOGY USED:</h2>
 
