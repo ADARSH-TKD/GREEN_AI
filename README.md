@@ -34,11 +34,21 @@
 - Improve sapling survival rates from current 65% to 85%+
 - Provide real-time actionable insights for forest departments
 - Enable scalable monitoring across remote and inaccessible terrains
+## System Architecture
+
 
 <div align="center">
   <img src="https://github.com/ADARSH-TKD/GREEN_AI/blob/main/IMAGE/img%202.jpg?raw=true" alt="Drone Monitoring" width="70%">
 </div>
 
+![System Flowchart](https://github.com/ADARSH-TKD/GREEN_AI/blob/main/DOCUMENT/FLOWCHART.jpg?raw=true)
+
+### Key Components:
+- **Data Input Layer**: [Brief description of input sources]
+- **Processing Engine**: [AI/ML models and algorithms used]
+- **Decision Logic**: [How the system makes recommendations]
+- **Output Interface**: [How results are presented]
+- 
 ## 🔍 Problem Statement
 
 ### Current Challenges in Afforestation Programs:
